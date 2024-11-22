@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBottomSheetDialogTheme" parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppModalStyle</item>
+        <item name="colorControlActivated">@color/white</item>
+    </style>
+
+    <style name="AppModalStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/rounded_top_shape</item>
+    </style>
+
+    <style name="EditTextWhiteBackground" parent="Widget.Material3.TextInputEditText.OutlinedBox">
+
+        <item name="android:background">@color/white</item>
+
+
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="TextInputLayoutWhiteOutline" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+
+        <item name="boxStrokeColor">@color/white</item>
+
+
+        <item name="hintTextColor">@color/black</item>
+
+
+    </style>
+
+
+</resources>

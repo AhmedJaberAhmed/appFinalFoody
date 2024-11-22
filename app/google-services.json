@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804749438985",
+    "project_id": "finalcooking-34709",
+    "storage_bucket": "finalcooking-34709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804749438985:android:d2f3fef32c221bc0ad88d8",
+        "android_client_info": {
+          "package_name": "com.example.finalcooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvAiX_NNa49kSvu8zK_zC-ONm2I9E__c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
